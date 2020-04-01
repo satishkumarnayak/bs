@@ -1,3 +1,1 @@
-Somecommit
-somemore commit
-dev:first commit
+feature2:first commit
