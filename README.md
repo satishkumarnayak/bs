@@ -1,1 +1,1 @@
-featur:first commit
+merge : feature:first commit
